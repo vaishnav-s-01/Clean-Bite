@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730429862139",
+    "project_id": "cleanbite-app",
+    "storage_bucket": "cleanbite-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730429862139:android:a39902c76208868d21405e",
+        "android_client_info": {
+          "package_name": "com.example.cleanbite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730429862139-0mvr2gebcsj15vjkfn04id8voa3neguj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cleanbite",
+            "certificate_hash": "0830958bcd6d201e4c33f4a4eee6ccbebe38ae9a"
+          }
+        },
+        {
+          "client_id": "730429862139-f4o7hh8oa5n21tm31ed81bcf08h0kkrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoa7Y1gVqiEZEq2CPtj5WMFkK6G10PCWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730429862139-f4o7hh8oa5n21tm31ed81bcf08h0kkrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
